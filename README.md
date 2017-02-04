@@ -16,7 +16,7 @@ The best of all:
 - Google love it, too!
 - Works with jQuery, mootools, dojo and ANY JS framework on this planet. There are just a few YUI issues...
 - Supports other popular JS frameworks out-of-the-box! Even Angular, Angular 2 & React implement it already!
-- Wordks with WordPress, Joomla, Drupal and any other CMS. No plugin or modul installation is needed.
+- Works with WordPress, Joomla, Drupal and any other CMS. No plugin or modul installation is needed because it is already build into the core of all this cool open source projects.
 - Used by huge companies like Nike & Coke. Just Apple don´t get it... 
 
 
