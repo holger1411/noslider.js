@@ -8,16 +8,16 @@ The best of all:
 - Works in all browser´s on all OS. Even Opera Mobil on your Xbox in quirks mode support this!
 - You don´t need npm, bower, a CDN or anything else to implement it and to run it.
 - You dont need to add any code or script.
-- The noslider.js build never fails.
+- The noslider.js build´s never fails.
 - There was NEVER a bug in it.
 - No security problems.
 - No bored site visitors.
-- 0% performance impact on your page load.
-- Google love it!
+- No performance impact on your page load! Any page speed tool loves noslider.js!
+- Google love it, too!
 - Works with jQuery, mootools, dojo and ANY JS framework on this planet. There are just a few YUI issues...
-- Supports even Angular, Angular 2 & React!
-- Wordks with WordPress, Joomla, Drupal and any other CMS. To plugin or modul installation is needed.
-- Used by huge companies like Nike & Coke 
+- Supports other popular JS frameworks out-of-the-box! Even Angular, Angular 2 & React implement it already!
+- Wordks with WordPress, Joomla, Drupal and any other CMS. No plugin or modul installation is needed.
+- Used by huge companies like Nike & Coke. Just Apple don´t get it... 
 
 
 ## Installation
@@ -35,4 +35,4 @@ or
 
 `please install nosliderjs`
 
-You might see an error message. Ignore this. You are good to go.
+You might see an error message. Ignore this. You are good to go now.
