@@ -29,6 +29,10 @@ If you really need some sort of install routine or dependency management (to fee
 
 or
 
-`npm install nosliderjs`
+`bower install nosliderjs`
+
+or
+
+`please install nosliderjs`
 
 You might see an error message. Ignore this. You are good to go.
