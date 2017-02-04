@@ -17,10 +17,11 @@ The best of all:
 - Google love it!
 - Works with jQuery, mootools, dojo. Is compatible with YUI
 - Supports even Angular 2!
+- WordPress plugin and Joomla Module availabel
 
 
 ## Installation
-Don´t do anything. Really. Nothing
+Don´t do anything. Really. Nothing. Just DON´T USE A SLIDER.
 If you really want type into your terminal:
 
 `npm install nosliderjs`
