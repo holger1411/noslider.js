@@ -1,7 +1,7 @@
 # noslider.js
 The best slider script in the world! Makes sliding around GREAT AGAIN!
 
-All UX designer´s around the globe agree: The best slider is no slider.
+All UX designer´s around the globe agree: The best slider is NO SLIDER.
 Thats why I create noslider.js
 
 The best of all:
