@@ -5,24 +5,29 @@ All UX designer around the globe agree in one point: No slider is the best slide
 Thats why I create noslider.js
 
 The best of all:
-- Works in all browser on all OS. Even on Opera on your Xbox.
+- Works in all browser on all OS. Even on Opera Mobil on your Xbox.
 - You don´t need npm, bower, a CDN or anything else to implement it and to run it.
-- You dont need to add any code or script
-- Just don´t use a slider and you are good to go
-- The noslider.js build never fails
-- There was NEVER a bug in it
-- No security problems
-- No bored site visitors
-- 0% perfomrance impact on your page load
+- You dont need to add any code or script.
+- The noslider.js build never fails.
+- There was NEVER a bug in it.
+- No security problems.
+- No bored site visitors.
+- 0% performance impact on your page load.
 - Google love it!
-- Works with jQuery, mootools, dojo. Is compatible with YUI
-- Supports even Angular 2!
+- Works with jQuery, mootools, dojo and ANY JS framework on this planet. There are just a few YUI issues...
+- Supports even Angular, Angular 2 & React!
 - WordPress plugin and Joomla Module availabel
+- Used by huge companies like Nike & Coke 
 
 
 ## Installation
 Don´t do anything. Really. Nothing. Just DON´T USE A SLIDER.
-If you really want type into your terminal:
+
+If you really need some sort of install routine (to feel better) type this into your terminal:
+
+`npm install nosliderjs`
+
+or
 
 `npm install nosliderjs`
 
