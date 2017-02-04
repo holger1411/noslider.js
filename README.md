@@ -22,6 +22,7 @@ The best of all:
 ## Installation
 Don´t do anything. Really. Nothing
 If you really want type into your terminal:
+
 `npm install nosliderjs`
 
 You might see an error message. Ignore this.
