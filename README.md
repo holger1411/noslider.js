@@ -5,7 +5,7 @@ All UX designer around the globe agree in one point: No slider is the best slide
 Thats why I create noslider.js
 
 The best of all:
-- It comes with no code, really. Nada. Not 1 byte
+- Works in all browser on all OS. Even on Opera on your Xbox.
 - You don´t need npm, bower, a CDN or anything else to implement it and to run it.
 - You dont need to add any code or script
 - Just don´t use a slider and you are good to go
