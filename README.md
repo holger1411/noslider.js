@@ -16,7 +16,7 @@ The best of all:
 - Google love it!
 - Works with jQuery, mootools, dojo and ANY JS framework on this planet. There are just a few YUI issues...
 - Supports even Angular, Angular 2 & React!
-- WordPress plugin and Joomla Module availabel
+- Wordks with WordPress, Joomla, Drupal and any other CMS. To plugin or modul installation is needed.
 - Used by huge companies like Nike & Coke 
 
 
