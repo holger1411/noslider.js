@@ -23,7 +23,7 @@ The best of all:
 ## Installation
 Don´t do anything. Really. Nothing. Just DON´T USE A SLIDER.
 
-If you really need some sort of install routine (to feel better) type this into your terminal:
+If you really need some sort of install routine or dependency management (to feel better as full stack developer) type this into your terminal:
 
 `npm install nosliderjs`
 
@@ -31,4 +31,4 @@ or
 
 `npm install nosliderjs`
 
-You might see an error message. Ignore this.
+You might see an error message. Ignore this. You are good to go.
