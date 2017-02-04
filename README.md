@@ -1,11 +1,11 @@
 # noslider.js
-The best slider script in the world!
+The best slider script in the world! Makes sliding around GREAT AGAIN!
 
 All UX designer´s around the globe agree: The best slider is no slider.
 Thats why I create noslider.js
 
 The best of all:
-- Works in all browser on all OS. Even on Opera Mobil on your Xbox.
+- Works in all browser´s on all OS. Even Opera Mobil on your Xbox in quirks mode support this!
 - You don´t need npm, bower, a CDN or anything else to implement it and to run it.
 - You dont need to add any code or script.
 - The noslider.js build never fails.
