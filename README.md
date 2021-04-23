@@ -1,7 +1,7 @@
 # noslider.js
-The best slider script in the world! Makes sliding around GREAT AGAIN!
+The best slider script in the world! I will let you add a slider script to your project but without any impact! You can move your ticket to "done" but without irritating your users nor an negative impacting on your website performance.
 
-All UX designer´s around the globe agree: The best slider is NO SLIDER.
+All UX/UI/FE folks around the globe agree: The best slider is NO SLIDER.
 Thats why I create noslider.js
 
 The best of all:
